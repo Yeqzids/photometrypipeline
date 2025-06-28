@@ -28,6 +28,8 @@ Python modules:
   * `future`_
   * `skimage`_
   * `pandas`_
+
+(QZ 06/28/2025: this combination works -- python==3.8 numpy==1.20 matplotlib==3.7 astropy==4 scikit-image astroquery pandas future)
   
 and some freely available software:
 
